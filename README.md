@@ -3,7 +3,7 @@ A continuation of Open City Dancer that uses TensorFlow.js to create a neural ne
 
 # Credit
 This project was adapted from the TensorFlow.js webcam transfer learning tutorial.
-(https://js.tensorflow.org/tutorials/webcam-transfer-learning.html)[https://js.tensorflow.org/tutorials/webcam-transfer-learning.html]
+[https://js.tensorflow.org/tutorials/webcam-transfer-learning.html](https://js.tensorflow.org/tutorials/webcam-transfer-learning.html)
 
 ## Setup
 
